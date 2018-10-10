@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "Puppeteer Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janumedia/puppeteer-demo.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "google"
+  ],
+  "author": "I Nengah Januartha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janumedia/puppeteer-demo/issues"
+  },
+  "homepage": "https://github.com/janumedia/puppeteer-demo#readme",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
