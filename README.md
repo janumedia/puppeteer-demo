@@ -9,5 +9,5 @@ yarn install
 
 ### Run Demo
 ```
-yarn run dev
+yarn dev
 ```
