@@ -6,8 +6,3 @@ Google Puppeteer Demo
 ```
 yarn install
 ```
-
-### Run Demo
-```
-yarn dev
-```
