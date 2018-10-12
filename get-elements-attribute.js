@@ -12,7 +12,7 @@ const helper = require('./puppeteer-helper');
     */
     
     //2nd solutions using page.$$eval
-    const result = await page.$$eval('img', hrefs => hrefs.map(a => a.getAttribute('src')));
+    const result = await page.$$eval('img', images => images.map(img => img.getAttribute('src')));
     
     console.log(result);
 
