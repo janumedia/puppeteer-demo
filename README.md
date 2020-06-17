@@ -6,3 +6,9 @@ Google Puppeteer Demo
 ```
 yarn install
 ```
+
+## Options Example
+please check `puppeteer-helper.js`
+
+## Run Test
+`node [selected-test-file].js`
