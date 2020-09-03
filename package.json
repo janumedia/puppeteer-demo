@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/janumedia/puppeteer-demo#readme",
   "dependencies": {
-    "puppeteer": "^1.9.0"
+    "puppeteer": "^1.13.0"
   },
   "resolutions": {
     "minimist": "^0.2.1"
